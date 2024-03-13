@@ -1,0 +1,6 @@
+Invoking command in '/home/yuto/kachaka_ws/build/kachaka_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/yuto/kachaka_ws/src/kachaka_bringup/bringup -DCMAKE_INSTALL_PREFIX=/home/yuto/kachaka_ws/install/kachaka_bringup
+Invoked command in '/home/yuto/kachaka_ws/build/kachaka_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/yuto/kachaka_ws/src/kachaka_bringup/bringup -DCMAKE_INSTALL_PREFIX=/home/yuto/kachaka_ws/install/kachaka_bringup
+Invoking command in '/home/yuto/kachaka_ws/build/kachaka_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yuto/kachaka_ws/build/kachaka_bringup -- -j12 -l12
+Invoked command in '/home/yuto/kachaka_ws/build/kachaka_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yuto/kachaka_ws/build/kachaka_bringup -- -j12 -l12
+Invoking command in '/home/yuto/kachaka_ws/build/kachaka_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yuto/kachaka_ws/build/kachaka_bringup
+Invoked command in '/home/yuto/kachaka_ws/build/kachaka_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yuto/kachaka_ws/build/kachaka_bringup

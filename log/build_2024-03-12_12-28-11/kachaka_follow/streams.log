@@ -1,0 +1,21 @@
+[0.463s] Invoking command in '/home/yuto/kachaka_ws/src/kachaka_follow': PYTHONPATH=/home/yuto/kachaka_ws/build/kachaka_follow/prefix_override:/home/yuto/kachaka_ws/install/kachaka_follow/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kachaka_follow build --build-base /home/yuto/kachaka_ws/build/kachaka_follow/build install --record /home/yuto/kachaka_ws/build/kachaka_follow/install.log --single-version-externally-managed
+[0.594s] running egg_info
+[0.594s] writing ../../build/kachaka_follow/kachaka_follow.egg-info/PKG-INFO
+[0.602s] writing dependency_links to ../../build/kachaka_follow/kachaka_follow.egg-info/dependency_links.txt
+[0.602s] writing entry points to ../../build/kachaka_follow/kachaka_follow.egg-info/entry_points.txt
+[0.602s] writing requirements to ../../build/kachaka_follow/kachaka_follow.egg-info/requires.txt
+[0.603s] writing top-level names to ../../build/kachaka_follow/kachaka_follow.egg-info/top_level.txt
+[0.604s] reading manifest file '../../build/kachaka_follow/kachaka_follow.egg-info/SOURCES.txt'
+[0.605s] writing manifest file '../../build/kachaka_follow/kachaka_follow.egg-info/SOURCES.txt'
+[0.605s] running build
+[0.605s] running build_py
+[0.605s] running install
+[0.605s] running install_lib
+[0.606s] running install_data
+[0.606s] running install_egg_info
+[0.607s] removing '/home/yuto/kachaka_ws/install/kachaka_follow/lib/python3.10/site-packages/kachaka_follow-0.0.0-py3.10.egg-info' (and everything under it)
+[0.608s] Copying ../../build/kachaka_follow/kachaka_follow.egg-info to /home/yuto/kachaka_ws/install/kachaka_follow/lib/python3.10/site-packages/kachaka_follow-0.0.0-py3.10.egg-info
+[0.608s] running install_scripts
+[0.619s] Installing follow script to /home/yuto/kachaka_ws/install/kachaka_follow/lib/kachaka_follow
+[0.619s] writing list of installed files to '/home/yuto/kachaka_ws/build/kachaka_follow/install.log'
+[0.634s] Invoked command in '/home/yuto/kachaka_ws/src/kachaka_follow' returned '0': PYTHONPATH=/home/yuto/kachaka_ws/build/kachaka_follow/prefix_override:/home/yuto/kachaka_ws/install/kachaka_follow/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kachaka_follow build --build-base /home/yuto/kachaka_ws/build/kachaka_follow/build install --record /home/yuto/kachaka_ws/build/kachaka_follow/install.log --single-version-externally-managed

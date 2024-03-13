@@ -1,0 +1,6 @@
+Invoking command in '/home/yuto/kachaka_ws/build/kachaka_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yuto/kachaka_ws/src/kachaka_interfaces -DCMAKE_INSTALL_PREFIX=/home/yuto/kachaka_ws/install/kachaka_interfaces
+Invoked command in '/home/yuto/kachaka_ws/build/kachaka_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yuto/kachaka_ws/src/kachaka_interfaces -DCMAKE_INSTALL_PREFIX=/home/yuto/kachaka_ws/install/kachaka_interfaces
+Invoking command in '/home/yuto/kachaka_ws/build/kachaka_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yuto/kachaka_ws/build/kachaka_interfaces -- -j12 -l12
+Invoked command in '/home/yuto/kachaka_ws/build/kachaka_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yuto/kachaka_ws/build/kachaka_interfaces -- -j12 -l12
+Invoking command in '/home/yuto/kachaka_ws/build/kachaka_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yuto/kachaka_ws/build/kachaka_interfaces
+Invoked command in '/home/yuto/kachaka_ws/build/kachaka_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yuto/kachaka_ws/build/kachaka_interfaces

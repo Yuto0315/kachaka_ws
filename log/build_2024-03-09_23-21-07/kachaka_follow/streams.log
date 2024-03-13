@@ -1,0 +1,21 @@
+[0.417s] Invoking command in '/home/yuto/kachaka_ws/src/kachaka_follow': AMENT_PREFIX_PATH=/home/yuto/kachaka_ws/install/kachaka_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yuto/kachaka_ws/install/kachaka_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yuto/kachaka_ws/install/kachaka_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/yuto/kachaka_ws/build/kachaka_follow/prefix_override:/home/yuto/kachaka_ws/install/kachaka_follow/lib/python3.10/site-packages:/home/yuto/kachaka_ws/install/kachaka_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kachaka_follow build --build-base /home/yuto/kachaka_ws/build/kachaka_follow/build install --record /home/yuto/kachaka_ws/build/kachaka_follow/install.log --single-version-externally-managed
+[0.552s] running egg_info
+[0.552s] writing ../../build/kachaka_follow/kachaka_follow.egg-info/PKG-INFO
+[0.552s] writing dependency_links to ../../build/kachaka_follow/kachaka_follow.egg-info/dependency_links.txt
+[0.552s] writing entry points to ../../build/kachaka_follow/kachaka_follow.egg-info/entry_points.txt
+[0.552s] writing requirements to ../../build/kachaka_follow/kachaka_follow.egg-info/requires.txt
+[0.552s] writing top-level names to ../../build/kachaka_follow/kachaka_follow.egg-info/top_level.txt
+[0.554s] reading manifest file '../../build/kachaka_follow/kachaka_follow.egg-info/SOURCES.txt'
+[0.554s] writing manifest file '../../build/kachaka_follow/kachaka_follow.egg-info/SOURCES.txt'
+[0.554s] running build
+[0.554s] running build_py
+[0.555s] running install
+[0.555s] running install_lib
+[0.556s] running install_data
+[0.557s] running install_egg_info
+[0.558s] removing '/home/yuto/kachaka_ws/install/kachaka_follow/lib/python3.10/site-packages/kachaka_follow-0.0.0-py3.10.egg-info' (and everything under it)
+[0.558s] Copying ../../build/kachaka_follow/kachaka_follow.egg-info to /home/yuto/kachaka_ws/install/kachaka_follow/lib/python3.10/site-packages/kachaka_follow-0.0.0-py3.10.egg-info
+[0.558s] running install_scripts
+[0.571s] Installing follow script to /home/yuto/kachaka_ws/install/kachaka_follow/lib/kachaka_follow
+[0.571s] writing list of installed files to '/home/yuto/kachaka_ws/build/kachaka_follow/install.log'
+[0.587s] Invoked command in '/home/yuto/kachaka_ws/src/kachaka_follow' returned '0': AMENT_PREFIX_PATH=/home/yuto/kachaka_ws/install/kachaka_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yuto/kachaka_ws/install/kachaka_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yuto/kachaka_ws/install/kachaka_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/yuto/kachaka_ws/build/kachaka_follow/prefix_override:/home/yuto/kachaka_ws/install/kachaka_follow/lib/python3.10/site-packages:/home/yuto/kachaka_ws/install/kachaka_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kachaka_follow build --build-base /home/yuto/kachaka_ws/build/kachaka_follow/build install --record /home/yuto/kachaka_ws/build/kachaka_follow/install.log --single-version-externally-managed

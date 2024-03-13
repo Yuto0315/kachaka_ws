@@ -1,0 +1,6 @@
+Invoking command in '/home/yuto/kachaka_ws/build/kachaka_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/yuto/kachaka_ws/src/kachaka_description -DCMAKE_INSTALL_PREFIX=/home/yuto/kachaka_ws/install/kachaka_description
+Invoked command in '/home/yuto/kachaka_ws/build/kachaka_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/yuto/kachaka_ws/src/kachaka_description -DCMAKE_INSTALL_PREFIX=/home/yuto/kachaka_ws/install/kachaka_description
+Invoking command in '/home/yuto/kachaka_ws/build/kachaka_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yuto/kachaka_ws/build/kachaka_description -- -j12 -l12
+Invoked command in '/home/yuto/kachaka_ws/build/kachaka_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yuto/kachaka_ws/build/kachaka_description -- -j12 -l12
+Invoking command in '/home/yuto/kachaka_ws/build/kachaka_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yuto/kachaka_ws/build/kachaka_description
+Invoked command in '/home/yuto/kachaka_ws/build/kachaka_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yuto/kachaka_ws/build/kachaka_description
